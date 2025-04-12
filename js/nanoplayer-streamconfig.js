@@ -95,7 +95,7 @@ streams.push({
   "tag": "test2",
   "titleTop": "Veranstaltungstitel",
   "title": "Untertitel",
-  "chat": true,
+  "chat": false,
   "entries": [
     {
       "streamname": "216818c6-0698-4f38-8ced-a55dd9375db9", // high
