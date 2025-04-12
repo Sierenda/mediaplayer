@@ -98,7 +98,7 @@ streams.push({
   "chat": true,
   "entries": [
     {
-      "streamname": "RBJ00-6uALm", // high
+      "streamname": "216818c6-0698-4f38-8ced-a55dd9375db9", // high
       "info": { "bitrate": 1200, "width": 1280, "height": 720, "framerate": 30 }
     },
     {
